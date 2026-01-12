@@ -1,30 +1,30 @@
 Task: https://codeforces.com/contest/2177/problem/A
 
-My scores:
+Rank 20, 123.9k points. My scores:
 ```
 #1: OK [109ms, 1MB]: 1 50 1 0 1 0 1 0 1 0 points 6350.0 Solution is correct
-#2: OK [93ms, 1MB]: 1 50 1 25 1 0 1 0 1 0 points 6275.0 Solution is correct
-#3: OK [125ms, 1MB]: 1 46.875 1 59.375 1 21.875 1 25 1 0 points 6040.625 Solution is correct
-#4: OK [3187ms, 41MB]: 1 50 1 79.375 1 52.7865 1 55.1953 1 43.4115 points 5657.6953125 Solution is correct
-#5: OK [3828ms, 46MB]: 2 25.9277 1 54.9927 1 38.7451 1 38.6963 1 32.0068 points 5428.8940429688 Solution is correct
-#6: OK [3796ms, 42MB]: 2 25.6226 1 53.9062 1 28.9917 1 27.9175 1 26.8311 points 5510.1928710938 Solution is correct
-#7: OK [3656ms, 42MB]: 1 50 1 71.875 1 42.3307 1 44.4922 1 40.0651 points 5753.7109375 Solution is correct
-#8: OK [3687ms, 38MB]: 1 50 1 73.737 1 45.3646 1 37.5521 1 25.5339 points 5803.4375 Solution is correct
-#9: OK [3828ms, 42MB]: 1 50 1 82.2632 1 41.4673 1 52.3315 1 58.0322 points 5647.7172851562 Solution is correct
-#10: OK [3781ms, 42MB]: 1 49.9878 1 53.1738 1 59.3384 1 44.8608 1 47.8394 points 5734.3994140625 Solution is correct
-#11: OK [3515ms, 40MB]: 1 50 1 69.401 1 43.8411 1 45.0521 1 51.6536 points 5720.15625 Solution is correct
-#12: OK [3171ms, 29MB]: 4 37.5977 4 38.6719 4 23.0957 4 11.7432 4 4.90723 points 4901.953125 Solution is correct
-#13: OK [2093ms, 29MB]: 4 38.2324 4 39.3799 4 22.1924 4 11.9385 4 9.25293 points 4887.01171875 Solution is correct
-#14: OK [2343ms, 29MB]: 4 38.1348 4 28.0029 4 38.4033 4 8.8623 4 22.0459 points 4843.65234375 Solution is correct
-#15: OK [2593ms, 28MB]: 4 37.6465 4 34.9365 4 25.415 4 4.39453 4 26.8799 points 4862.1826171875 Solution is correct
-#16: OK [1500ms, 28MB]: 4 38.2324 4 40.2588 4 25.8789 4 18.9209 4 17.8711 points 4826.513671875 Solution is correct
-#17: OK [2484ms, 29MB]: 4 37.5977 4 20.7764 4 17.1387 4 13.7207 4 15.21 points 4936.669921875 Solution is correct
-#18: OK [2187ms, 28MB]: 4 37.6221 4 32.9834 4 13.7939 4 21.3623 4 10.8398 points 4900.1953125 Solution is correct
-#19: OK [1968ms, 28MB]: 4 38.2324 4 43.8232 4 6.46973 4 8.61816 4 12.8174 points 4920.1171875 Solution is correct
-#20: OK [3140ms, 29MB]: 8 43.75 8 57.0801 8 57.3242 8 14.5508 8 3.61328 points 5346.044921875 Solution is correct
-#21: OK [2062ms, 29MB]: 8 46.875 8 70.3125 8 3.02734 8 11.5723 8 5.46875 points 5463.232421875 Solution is correct
-#22: OK [4218ms, 30MB]: 8 43.75 8 49.707 8 8.49609 8 7.37305 8 11.2305 points 5513.330078125 Solution is correct
-#23: OK [1515ms, 29MB]: 8 46.875 8 50.4395 8 39.209 8 35.4004 8 15.0879 points 5313.96484375 Solution is correct
+#2: OK [171ms, 7MB]: 1 50 1 75 1 0 1 0 1 50 points 5975.0 Solution is correct
+#3: OK [109ms, 4MB]: 1 46.875 1 40.625 1 37.5 1 0 1 18.75 points 6068.75 Solution is correct
+#4: OK [3718ms, 37MB]: 1 50 1 85.5469 1 41.0026 1 48.9193 1 42.2135 points 5696.953125 Solution is correct
+#5: OK [4015ms, 42MB]: 2 25.9399 1 57.3364 1 44.7632 1 35.9497 1 42.9199 points 5379.2724609375 Solution is correct
+#6: OK [3734ms, 50MB]: 2 25.592 1 62.5916 1 26.2329 1 30.6519 1 24.4995 points 5491.2963867188 Solution is correct
+#7: OK [3390ms, 42MB]: 1 50 1 77.5651 1 24.8047 1 28.763 1 40.8203 points 5834.140625 Solution is correct
+#8: OK [3750ms, 38MB]: 1 50 1 66.849 1 50.4557 1 33.2422 1 37.3568 points 5786.2890625 Solution is correct
+#9: OK [3671ms, 38MB]: 1 50 1 82.6172 1 47.3633 1 43.1152 1 47.4487 points 5688.3666992188 Solution is correct
+#10: OK [3968ms, 37MB]: 2 25.6165 1 60.0769 1 42.1265 1 45.4346 1 40.5518 points 5358.5815429688 Solution is correct
+#11: OK [3625ms, 38MB]: 1 50 1 72.2135 1 38.5677 1 53.6979 1 37.3828 points 5744.4140625 Solution is correct
+#12: OK [2968ms, 29MB]: 4 37.6465 4 37.7686 4 17.6514 4 16.2109 4 11.1572 points 4888.6962890625 Solution is correct
+#13: OK [2843ms, 29MB]: 4 38.1836 4 48.5107 4 10.7666 4 40.2344 4 9.00879 points 4809.8876953125 Solution is correct
+#14: OK [2968ms, 30MB]: 4 38.2812 4 40.6006 4 12.6221 4 18.335 4 18.5303 points 4864.892578125 Solution is correct
+#15: OK [3140ms, 28MB]: 4 37.6221 4 39.2578 4 11.5234 4 4.73633 4 14.624 points 4926.708984375 Solution is correct
+#16: OK [2781ms, 31MB]: 4 38.1836 4 43.8232 4 19.0918 4 18.5547 4 16.626 points 4841.162109375 Solution is correct
+#17: OK [3484ms, 29MB]: 4 37.5977 4 13.9648 4 39.5264 4 16.2842 4 10.6934 points 4895.80078125 Solution is correct
+#18: OK [3140ms, 29MB]: 4 37.6221 4 36.377 4 11.1816 4 3.39355 4 10.1318 points 4953.8818359375 Solution is correct
+#19: OK [2640ms, 29MB]: 4 38.1592 4 37.3535 4 25.9766 4 27.0264 4 23.7793 points 4793.115234375 Solution is correct
+#20: OK [3468ms, 29MB]: 8 43.75 8 42.7246 8 25 8 27.6855 8 15.7227 points 5410.3515625 Solution is correct
+#21: OK [3125ms, 30MB]: 8 46.875 8 60.5957 8 29.5898 8 28.0762 8 21.0938 points 5316.30859375 Solution is correct
+#22: OK [3093ms, 29MB]: 8 43.75 8 42.9199 8 24.3652 8 15.2344 8 14.3555 points 5453.125 Solution is correct
+#23: OK [2781ms, 41MB]: 8 46.875 8 59.8145 8 8.88672 8 9.17969 8 41.9922 points 5374.755859375 Solution is correct
 ```
 
 ## Approach:
